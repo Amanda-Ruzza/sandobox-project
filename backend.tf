@@ -3,6 +3,6 @@ terraform {
     bucket = "i-hope-this-works-454545"
     key    = "projects/sandbox/terraform.tfstates"
     #dynamodb_table = "terraform-lock"
-    region = "ca-central-1"
+    region = "us-east-1"
   }
 }
